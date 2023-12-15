@@ -3,8 +3,8 @@ title: How to quantify the actors success ?
 description: Project realised by A.Touré, N.Avetikovi, Q.Zoppis, P.Nguyen, M.Olszewski
 show_downloads: True
 navigation:
-  - title: Home
-    url: /mainpage.md
+  - title: Data Story
+    url: /mainpage
   - title: Example
     url: example
   - title: Longevity
