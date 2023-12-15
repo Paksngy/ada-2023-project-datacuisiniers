@@ -4,7 +4,7 @@ description: Project realised by A.Touré, N.Avetikovi, Q.Zoppis, P.Nguyen, M.Ol
 show_downloads: True
 navigation:
   - title: Home
-    url: /
+    url: /mainpage.md
   - title: Example
     url: example
   - title: Longevity
